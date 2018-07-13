@@ -2,7 +2,7 @@
 Quiz Application for multiple choice questions (MCQ) can be used to test your knowledge about the history and 
 geography of the United States, it will show you at the end how many correct answers you got
 
-#Requirements
+# Requirements
 Make sure you have Tkinter package installed on your python environment before running the program
 
 # Note 
